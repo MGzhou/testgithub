@@ -8,7 +8,7 @@
 
 $$  H^{(l+1)} = \sigma(\hat{D}^{-1/2}\hat{A}\hat{D}^{-1/2}H^{(l)}W^{l})  $$ 
 
-
+$a=\hat{a}^{-1/2}b\*a$
 
 ![image](./img/test1.png)
 
